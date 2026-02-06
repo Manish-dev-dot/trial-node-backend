@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "role": "User"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "category": "Electronics",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 29.99,
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "price": 79.99,
+      "category": "Electronics",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 399.99,
+      "category": "Electronics",
+      "stock": 20
+    }
+  ]
+}
